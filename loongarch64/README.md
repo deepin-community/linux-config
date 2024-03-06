@@ -1,0 +1,1 @@
+from:  https://github.com/loongarchlinux/linux  la64/6.7.0/release
